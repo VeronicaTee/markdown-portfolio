@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. I am a **fast learner**
+2. I love to code with *JavaScript* and _PHP_
+3. I can __multi-task__
